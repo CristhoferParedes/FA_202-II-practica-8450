@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\fa\\FA_2025-II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7936F1BD-8840-4591-952C-2857036D0B3A}|semana1_python\\semana1_python.pyproj|C:\\Users\\UPN\\Desktop\\fa\\FA_2025-II\\semana1_python\\semana1_python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7936F1BD-8840-4591-952C-2857036D0B3A}|semana1_python\\semana1_python.pyproj|solutionrelative:semana1_python\\semana1_python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{55604E97-575A-44DD-BC4E-7734D49E03DA}|semana1_c#\\semana1_c#.csproj|C:\\Users\\UPN\\Desktop\\fa\\FA_2025-II\\semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55604E97-575A-44DD-BC4E-7734D49E03DA}|semana1_c#\\semana1_c#.csproj|solutionrelative:semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55604E97-575A-44DD-BC4E-7734D49E03DA}|semana1_c#\\semana1_c#.csproj|c:\\users\\upn\\desktop\\fa\\fa_2025-ii\\semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55604E97-575A-44DD-BC4E-7734D49E03DA}|semana1_c#\\semana1_c#.csproj|solutionrelative:semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7936F1BD-8840-4591-952C-2857036D0B3A}|semana1_python\\semana1_python.pyproj|C:\\Users\\UPN\\Desktop\\fa\\FA_2025-II\\semana1_python\\semana1_python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7936F1BD-8840-4591-952C-2857036D0B3A}|semana1_python\\semana1_python.pyproj|solutionrelative:semana1_python\\semana1_python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "semana1_python.py",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\fa\\FA_2025-II\\semana1_python\\semana1_python.py",
               "RelativeDocumentMoniker": "semana1_python\\semana1_python.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\fa\\FA_2025-II\\semana1_python\\semana1_python.py*",
-              "RelativeToolTip": "semana1_python\\semana1_python.py*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\fa\\FA_2025-II\\semana1_python\\semana1_python.py",
+              "RelativeToolTip": "semana1_python\\semana1_python.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-02T20:11:06.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\fa\\FA_2025-II\\semana1_c#\\Program.cs",
               "RelativeDocumentMoniker": "semana1_c#\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\fa\\FA_2025-II\\semana1_c#\\Program.cs",
-              "RelativeToolTip": "semana1_c#\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\fa\\FA_2025-II\\semana1_c#\\Program.cs*",
+              "RelativeToolTip": "semana1_c#\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T19:50:27.351Z",
               "EditorCaption": ""
