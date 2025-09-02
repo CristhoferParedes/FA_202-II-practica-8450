@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\fa\FA_2025-II\semana1_c#\bin\Debug\semana1_c#.exe.config
+C:\Users\UPN\Desktop\fa\FA_2025-II\semana1_c#\bin\Debug\semana1_c#.exe
+C:\Users\UPN\Desktop\fa\FA_2025-II\semana1_c#\bin\Debug\semana1_c#.pdb
+C:\Users\UPN\Desktop\fa\FA_2025-II\semana1_c#\obj\Debug\semana1_c#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\fa\FA_2025-II\semana1_c#\obj\Debug\semana1_c#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\fa\FA_2025-II\semana1_c#\obj\Debug\semana1_c#.exe
+C:\Users\UPN\Desktop\fa\FA_2025-II\semana1_c#\obj\Debug\semana1_c#.pdb
+C:\Users\UPN\Desktop\fa\FA_2025-II\semana1_c#\obj\Debug\semana1_c#.exe.config
