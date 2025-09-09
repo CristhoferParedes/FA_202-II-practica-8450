@@ -4,4 +4,13 @@ def ejer1():
 
     print(f"{nombre}, bienbenido a FA de {carrera}")
 
-ejer1()
+def ejer2():
+    x = int(input("Ingresar el valor de x: "))
+    y = int(input("Ingresar el valor de y: "))
+
+    print("suma: ", (x+y))
+    print("resta: ", (x-y))
+    print("multiplicacion: ", (x*y))
+    print("division: ", (x/y))
+
+ejer2()

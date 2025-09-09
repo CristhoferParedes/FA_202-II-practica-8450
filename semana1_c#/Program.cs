@@ -37,7 +37,7 @@ namespace semana1_c_
             Console.WriteLine("suma :" + (x + y));
             Console.WriteLine("resta :" + (x - y));
             Console.WriteLine("multiplicacion :" + (x * y));
-            Console.WriteLine("division :" + (x / y));
+            Console.WriteLine("division :" + ((double)x / (double)y));
 
         }
         static void ejer3()
