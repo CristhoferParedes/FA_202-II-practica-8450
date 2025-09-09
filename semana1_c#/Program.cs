@@ -28,8 +28,13 @@ namespace semana1_c_
         static void ejer2()
         {
             
+            Console.WriteLine("\"cristhofer\"");
+
+        }
+        static void ejer3()
+        {
             Console.Write("ingrese su primer valor x:");
-            int x = int.Parse( Console.ReadLine() );
+            int x = int.Parse(Console.ReadLine());
 
             Console.Write("ingrese su segundo valor y:");
             int y = int.Parse(Console.ReadLine());
@@ -38,11 +43,6 @@ namespace semana1_c_
             Console.WriteLine("resta :" + (x - y));
             Console.WriteLine("multiplicacion :" + (x * y));
             Console.WriteLine("division :" + ((double)x / (double)y));
-
-        }
-        static void ejer3()
-        {
-
         }
         static void ejer4()
         {
