@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FA\\FA_202-II-practica-8450\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7936F1BD-8840-4591-952C-2857036D0B3A}|semana1_python\\semana1_python.pyproj|C:\\Users\\UPN\\Desktop\\FA\\FA_202-II-practica-8450\\semana1_python\\semana1_python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7936F1BD-8840-4591-952C-2857036D0B3A}|semana1_python\\semana1_python.pyproj|solutionrelative:semana1_python\\semana1_python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AA1ADEDD-3858-4547-ABD6-3B26EA3E3361}|SEMANA4-PY\\SEMANA4-PY.pyproj|C:\\Users\\UPN\\Desktop\\FA\\FA_202-II-practica-8450\\SEMANA4-PY\\SEMANA4_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA1ADEDD-3858-4547-ABD6-3B26EA3E3361}|SEMANA4-PY\\SEMANA4-PY.pyproj|solutionrelative:SEMANA4-PY\\SEMANA4_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55604E97-575A-44DD-BC4E-7734D49E03DA}|semana1_c#\\semana1_c#.csproj|C:\\Users\\UPN\\Desktop\\FA\\FA_202-II-practica-8450\\semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55604E97-575A-44DD-BC4E-7734D49E03DA}|semana1_c#\\semana1_c#.csproj|solutionrelative:semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7936F1BD-8840-4591-952C-2857036D0B3A}|semana1_python\\semana1_python.pyproj|C:\\Users\\UPN\\Desktop\\FA\\FA_202-II-practica-8450\\semana1_python\\semana1_python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7936F1BD-8840-4591-952C-2857036D0B3A}|semana1_python\\semana1_python.pyproj|solutionrelative:semana1_python\\semana1_python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SEMANA4_PY.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA\\FA_202-II-practica-8450\\SEMANA4-PY\\SEMANA4_PY.py",
+              "RelativeDocumentMoniker": "SEMANA4-PY\\SEMANA4_PY.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA\\FA_202-II-practica-8450\\SEMANA4-PY\\SEMANA4_PY.py",
+              "RelativeToolTip": "SEMANA4-PY\\SEMANA4_PY.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-09T20:42:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "semana1_python.py",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA\\FA_202-II-practica-8450\\semana1_python\\semana1_python.py",
               "RelativeDocumentMoniker": "semana1_python\\semana1_python.py",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\FA\\FA_202-II-practica-8450\\semana1_python\\semana1_python.py",
               "RelativeToolTip": "semana1_python\\semana1_python.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-02T20:11:06.702Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "semana1_c#\\Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\FA\\FA_202-II-practica-8450\\semana1_c#\\Program.cs",
               "RelativeToolTip": "semana1_c#\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T19:41:22.91Z",
               "EditorCaption": ""
